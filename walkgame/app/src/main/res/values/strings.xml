@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">walkgame</string>
+    <string name="title_activity_maps">walkgame</string>
+    <string name="wifi_confirm_dialog_title">Wifiをオフにしますか</string>
+    <string name="wifi_confirm_dialog_massage">市街地を走ると、Wifiを拾って現在地が飛ぶことがあります</string>
+    <string name="alert_dialog_yes">YES</string>
+    <string name="alert_dialog_no">NO</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">CANCEL</string>
+    <string name="save_confirm_dialog_title">この走行を記録しますか</string>
+    <string name="chronometer_format">%s</string>
+    <string name="eltime">経過時間</string>
+    <string name="distance">移動距離</string>
+    <string name="position">スタート地点</string>
+    <string name="text_on">Stop</string>
+    <string name="text_off">Start</string>
+    <string name="view">一覧</string>
+    <string name="ret">戻る</string>
+
+    <string name="empty">表示するデータがありません</string>
+    <string name="second">秒</string>
+    <string name="km">km</string>
+    <string name="speed">時速</string>
+    <string name="action_view">一覧</string>
+    <string name="action_quit">終了</string>
+</resources>
